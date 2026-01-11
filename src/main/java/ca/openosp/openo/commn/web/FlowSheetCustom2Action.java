@@ -45,7 +45,7 @@ import ca.openosp.openo.encounter.oscarMeasurements.util.RecommendationCondition
 import ca.openosp.openo.encounter.oscarMeasurements.util.TargetColour;
 import ca.openosp.openo.encounter.oscarMeasurements.util.TargetCondition;
 
-import com.opensymphony.xwork2.ActionSupport;
+import org.apache.struts2.ActionSupport;
 import org.apache.struts2.ServletActionContext;
 import java.util.*;
 import javax.servlet.http.HttpServletRequest;
